@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EDF5E1;
+}
+
+.first {
+    height: 50vh;
+    width: auto;
+    background-color: #ddd;
+}
+
+.about {
+    height: 50vh;
+    width: auto;
+}
+
+.edu{
+    height: 50vh;
+    width: auto;
+    background-color: #ddd;
+}
+
+.project {
+    height: 50vh;
+    width: auto;
+}
+
+.skill {
+    height: 50vh;
+    width: auto;
+    background-color: #ddd;
+}
+
+.contact {
+    height: 50vh;
+    width: auto;
+}
